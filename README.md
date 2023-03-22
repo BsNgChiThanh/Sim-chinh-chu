@@ -5,7 +5,7 @@
 - Soạn tin nhắn **TTTB** gởi **1414**
 - Lúc này 1414 gởi lại tin nhắn 
 - ![image](https://user-images.githubusercontent.com/82578024/226791687-05ae191b-09ca-448a-84f2-2dfb2dca0026.png)
-- Vậy là sim đã chính chủ và được cập nhật CCCD thành công, nếu chưa thì tiến hành cập nhật
+- Vậy là sim đã chính chủ và được cập nhật CCCD thành công, nếu chưa thì tiến hành cập nhật, **cập nhật thì ra nhà mạng hoặc từ App của nhà mạng tương ứng**.
 
 ## B. ĐĂNG KÝ SIM CHÍNH CHỦ ##
 
