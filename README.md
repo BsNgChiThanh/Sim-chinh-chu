@@ -1,4 +1,4 @@
-# SIM CHINH CHU #
+# SIM CHÍNH CHỦ #
 
 ## A. KIỂM TRA SIM CHÍNH CHỦ ##
 
