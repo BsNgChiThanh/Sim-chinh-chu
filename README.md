@@ -61,17 +61,17 @@
   
   Như vậy, bạn đã đăng ký SIM chính chủ thành công và chỉ đợi thông báo xác nhận từ phía nhà mạng.
   
-  **MobiFone:**
+**MobiFone:**
   
   - Ra trực tiếp điểm giao dịch của MobiFone.
   - Hoặc đăng ký online bằng [App My MobiFone](https://play.google.com/store/apps/details?id=vms.com.vn.mymobifone)
   
-  **VinaPhone:**
+**VinaPhone:**
   
   - Ra trực tiếp điểm giao dịch của VinaPhone.
   - Hoặc đăng ký online bằng [App My VNPT](https://play.google.com/store/apps/details?id=com.vnp.myvinaphone&hl=vi)
   
-  **Vietnamobile:**
+**Vietnamobile:**
   
   - Ra trực tiếp điểm giao dịch của Vietnamobile.
   - Hoặc đăng ký online bằng [App Vietnamobile](https://play.google.com/store/apps/details?id=com.vietnamobile.vietnamobile)
