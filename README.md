@@ -69,7 +69,7 @@
 **VinaPhone:**
   
   - Ra trực tiếp điểm giao dịch của VinaPhone.
-  - Hoặc đăng ký online bằng [App My VNPT](https://play.google.com/store/apps/details?id=com.vnp.myvinaphone&hl=vi)
+  - Hoặc đăng ký online bằng [App My VNPT](https://play.google.com/store/apps/details?id=com.vnp.myvinaphone&hl=vi) (Đăng ký trên App của Vinaphone giờ không được hỗ trợ)
   
 **Vietnamobile:**
   
